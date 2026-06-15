@@ -1,0 +1,9 @@
+[project]
+name = "toy-local-chat"
+version = "0.1.0"
+description = "Toy local chatbot with SQLite history and context-management primitives"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+toychat = "toychat.cli:main"
