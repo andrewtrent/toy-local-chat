@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+memory.db
+memory.db-*
+.debug/last_context.md
